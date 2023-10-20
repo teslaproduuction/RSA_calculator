@@ -1,0 +1,68 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>В 1982 году была создана RSA Data Security Inc. тремя парнями Рональдом Ривестом, Ади Шамиром и Леонардом Адлеманом, которые в 1977 году опубликовали свою идею алгоритма. В результате обороты продаж этой компании составили $900 миллионов, принеся создателям и огромные деньги, и признание мировой общественности. Но были и другие люди...
+
+Шифр RSA (под другим названием), однако с точностью до совпадения всех обозначений, был открыт в 1969 году. В штаб-квартиру правительственой связи в Великобритании был предложен шифр, авторами которого были Клиффорд Кокс, Малькольм Вильямсон и Джеймс Эллис, сотрудники этой организации.
+Из-за математической сложности, руководство шифровальной службы Великобритании не приняло этот шифр в качестве рабочего инструмента. В чём же заключалась разница? Ривест, Шамир и Адлерман опубликовали алгоритм в открытой печати, и он стал всем известен, а эти люди, как сотрудники секретной службы, написали разработанный ими шифр своему начальству. Убедить начальство в 69 году в Англии у них не получилось, ведь тогда никакого понятия односторонних функций не существовало. Да, они использовались, но на доводы о сложности разложения произведения двух простых больших чисел им возражали в духе «ну мало ли математических задач, пройдёт 3 года и может какой-нибудь студент вам всё разложит. И что вы будете делать?». И шифр был отклонён. Описание положили «в стол», а т.к. они были сотрудниками секретной службы, наложили гриф Top Secret, соответственно ни о какой публикации и не могло идти речи. Его сняли лишь в 1983 году, это уже через 6 лет после открытой публикации RSA. Забавность в том, что они обозначали p и q — простые числа, n — произведение, d от слова decription, e — encryption, и вообще алгоритм был идентичен…
+Таким образом, 3 человека, которые могли занять место Ривеста, Шамира и Адлермана, могли только следить за распространением полной копии своего алгоритма, который им публиковать не разрешили. Известно, что Агентство национальной безопасности (США) пыталось бороться с распространением алгоритма RSA уже после того, как его начали использовать всё больше и больше людей, однако попытки оказались безуспешны. Асимметричное шифрование прочно вошло в наш мир…
+Это, конечно, далеко не единственный случай. Зачастую засекреченные теоремы (например, из теории решёток, теории групп, булевой алгебры и пр.) имеющие стратегическое значение, рассекречивались уже не при жизни автора, таким образом написанная дата создания теоремы была позже смерти самого автора.</value>
+  </data>
+</root>
